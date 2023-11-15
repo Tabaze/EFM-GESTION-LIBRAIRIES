@@ -1,4 +1,4 @@
-package ma.ismo.crjj.efm;
+package ma.ismo.crjj.efm.app;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package ma.ismo.crjj.utils;
+package ma.ismo.crjj.efm.utils;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;

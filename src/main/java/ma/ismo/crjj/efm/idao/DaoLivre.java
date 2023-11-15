@@ -6,7 +6,7 @@ import org.hibernate.Session;
 import org.hibernate.Transaction;
 
 import ma.ismo.crjj.efm.model.Livre;
-import ma.ismo.crjj.utils.HibernateUtils;
+import ma.ismo.crjj.efm.utils.HibernateUtils;
 
 public class DaoLivre implements IDAO<Livre> {
 	@Override

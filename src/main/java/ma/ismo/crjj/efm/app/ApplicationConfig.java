@@ -1,4 +1,4 @@
-package ma.ismo.crjj.efm;
+package ma.ismo.crjj.efm.app;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
